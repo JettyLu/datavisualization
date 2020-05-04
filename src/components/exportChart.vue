@@ -9,7 +9,7 @@
 <!--        左边，导出图片-->
         <div class="export_content">
           <div class="top">
-            <div>图片 <span class="tip">( 图片导出 推荐使用谷歌、火狐 )</span></div>
+            <div>图片 <span class="tip">( 推荐使用谷歌、火狐浏览器 )</span></div>
             <div>
               <el-input v-model="exportPicName" />
               <el-radio v-model="exportPicType" label="image/png">.png</el-radio>
