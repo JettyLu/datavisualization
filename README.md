@@ -16,7 +16,7 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-##安装依赖
+##使用到的插件： xlsx、xlsx file-save、echart、element ui
 ```
 npm install --save xlsx file-saver
 npm install xlsx --save
