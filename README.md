@@ -1,7 +1,8 @@
 # datavisualization
 
 > A Vue.js project
-
+## 查看效果
+下载dist文件，直接运行html文件可查看效果
 ## Build Setup
 ``` bash
 # install dependencies
